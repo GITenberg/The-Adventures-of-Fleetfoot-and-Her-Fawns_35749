@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '36559'
     url: http://www.gutenberg.org/2009/agents/36559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35749#The-Adventures-of-Fleetfoot-and-Her-Fawns
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
