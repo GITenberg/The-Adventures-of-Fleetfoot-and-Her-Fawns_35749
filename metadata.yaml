@@ -1,0 +1,35 @@
+_repo: The-Adventures-of-Fleetfoot-and-Her-Fawns_35749
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lathrop, Dorothy Pulis
+    alias: Lathrop, Dorothy P. (Dorothy Pulis)
+    birthdate: 1891
+    deathdate: 1980
+    gutenberg_agent_id: '32530'
+    url: http://www.gutenberg.org/2009/agents/32530
+covers:
+- cover_type: archival
+  image_path: 35749-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chaffee, Allen
+    gutenberg_agent_id: '36559'
+    url: http://www.gutenberg.org/2009/agents/36559
+description: ''
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Farmers -- Juvenile fiction'
+- !lcsh 'Deer -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: "The Adventures of Fleet Foot and Her Fawns\r\nA True-to-Nature Story for Children\
+  \ and Their Elders"
+url: http://www.gutenberg.org/ebooks/35749
